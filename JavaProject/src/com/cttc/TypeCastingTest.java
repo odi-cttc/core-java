@@ -8,5 +8,4 @@ public class TypeCastingTest {
 		System.out.println((float)a/2);//Explicit Type Casting
 		System.out.println(a/(float)2);//Explicit Type Casting
 	}
-
 }
